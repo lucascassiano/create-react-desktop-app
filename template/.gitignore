@@ -1,0 +1,10 @@
+node_modules/
+.cache/
+dist/
+node_modules
+dist
+.vscode/
+release-build/
+release/
+*.app
+*.dmg
