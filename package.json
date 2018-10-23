@@ -1,6 +1,6 @@
 {
   "name": "create-react-desktop-app",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "CLI tool to create react desktop apps on top of Electron and Parcel ",
   "main": "index.js",
   "scripts": {
